@@ -1,0 +1,20 @@
+{
+  "name": "workspace-nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^76.0.0",
+    "nightwatch": "^1.2.1",
+    "npm-path": "^2.0.4"
+  },
+  "dependencies": {
+    "gulp-shell": "^0.7.1"
+  }
+}
